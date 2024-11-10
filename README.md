@@ -1,4 +1,23 @@
 ## Hi there 👋
+I'm a self-taught developer (Web & NodeJS) from France. 
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>&nbsp;</a>
+  <a href="https://developer.mozilla.org/docs/Glossary/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;</a>
+  <a href="https://svelte.dev/docs/kit/introduction" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="SvelteKit" alt="SvelteKit" width="40" height="40"/>&nbsp;</a>
+  <a href="https://astro.build" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="AstroJS" alt="AstroJS" width="40" height="40"/>&nbsp;</a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;</a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;</a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;</a>
+  <a href="https://pages.cloudflare.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="CloudFlare" alt="CloudFlare" width="40" height="40"/>&nbsp;</a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;</a>
+</div>
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saryniel&theme=transparent&hide_border=true&border_radius=3&locale=en&date_format=j+M%5B+Y%5D&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid)](#)
 
 <!--
 **saryniel/saryniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
