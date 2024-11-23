@@ -17,10 +17,10 @@ I'm a self-taught developer (Web & NodeJS) from France.
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saryniel&theme=transparent&hide_border=true&border_radius=3&locale=en&date_format=j+M%5B+Y%5D&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nuiqka&theme=transparent&hide_border=true&border_radius=3&locale=en&date_format=j+M%5B+Y%5D&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid)](#)
 
 <!--
-**saryniel/saryniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
