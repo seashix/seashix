@@ -16,9 +16,6 @@ I'm a self-taught developer (Web & NodeJS) from France.
   <a href="https://nextjs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;</a>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seashix&theme=transparent&hide_border=true&border_radius=3&locale=en&date_format=j+M%5B+Y%5D&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid)](#)
-
 <!--
 A ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
